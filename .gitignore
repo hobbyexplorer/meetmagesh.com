@@ -1,0 +1,8 @@
+#
+# Git ignore patterns.
+# @author Magesh Vadivelu <mageshkhanna@gmail.com>
+
+*.swp
+*~
+.DS_Store
+
